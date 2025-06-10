@@ -5,12 +5,12 @@ myFunction(1,2,3)
 def introduction(firstname , lastname):
     print("My name is" , firstname , lastname)
 
-introduction("Araba" , "Turkson")
-introduction("Ekua" , "Turkson")
-introduction("Adjoa" , "Turkson")
+introduction("Joanne" , "Kelly")
+introduction("Brian" , "Christopher")
+introduction("Joker" , "Nelly")
 
 #in Hungary it is different from the conventional one
 
-introduction("Turkson" , "Araba")
-introduction("Turkson" , "Adjoa")
-introduction("Turkson" , "Ekua")
+introduction("Kelly" , "Joanne")
+introduction("Christopher" , "Brian")
+introduction("Nelly" , "Joker")

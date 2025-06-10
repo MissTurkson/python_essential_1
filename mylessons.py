@@ -4,7 +4,7 @@ print()
 print("Down came the rain and washed the spider out \n up came the sun and dried the rain away and the ity bitsy spider went up the sprout again")
 
 #the sep=" "  keyword is used to seperate the string depending on the kind of seperation that you would like to do.
-print("My name" , "is" , "Araba", "Turkson" , sep="-")
+print("My name" , "is" , "Kwansema", "Sekyi" , sep="-")
 
 print("orange" , "banana" , "pineapple" , "watermelon" , sep="," , end="mango " )
 

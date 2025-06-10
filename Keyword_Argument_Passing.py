@@ -2,7 +2,7 @@ def introduction(firstName , lastName):
     print("My name is " , firstName, lastName)
 
 introduction(firstName="Esi" , lastName="Kuma")
-introduction(lastName="Mbroh" , firstName="Jovita")
+introduction(lastName="Kwansema" , firstName="Jovita")
 
 #In the passing of argument the parameter name should be the same as the arguement name
 
